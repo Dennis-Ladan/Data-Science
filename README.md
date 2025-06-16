@@ -51,7 +51,7 @@ Developed a powerful Convolutional Neural Network (CNN) to automatically classif
 
 Built and optimized a deep learning model to identify diseases in crop images from Uganda. This solution aims to help farmers detect issues early and improve crop yield.
 
-  * **Skills:** TensorFlow, Keras, Transfer Learning, K-fold Cross-Validation, Model Overfitting Detection, Advanced Callbacks (Checkpointing, Early Stopping).
+  * **Skills:** PyTorch, Transfer Learning, K-fold Cross-Validation, Model Overfitting Detection, Advanced Callbacks (Checkpointing, Early Stopping).
   * **Outcome:** Improved model performance significantly by leveraging a pre-trained base and optimizing the training process, resulting in a robust classification system.
   * **[Explore the Project ➔](https://www.google.com/search?q=your-repo-link-here)**
 
