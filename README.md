@@ -1,5 +1,3 @@
-Dennis Ladan - Data Scientist & Computer Vision Engineer
-
 Welcome\! This repository showcases my journey in transforming complex data into actionable insights and intelligent solutions. The projects here are a testament to my practical skills developed through the rigorous, hands-on curriculum at **World Quant University**.
 
 My work demonstrates a strong command of the entire data science pipeline, from querying and cleaning data to building, evaluating, and deploying sophisticated machine learning models. I am particularly passionate about computer vision and have developed deep learning models for image classification, object detection, and more.
@@ -72,5 +70,5 @@ Engineered an object detection system to identify and label cars, pedestrians, a
 I am actively seeking new opportunities to apply my skills and contribute to impactful, data-driven projects. Feel free to reach out\!
 
   * **LinkedIn:** [https://www.linkedin.com/in/bigMindz/]
-  * **Email:** [dennisfelix131.com]
+  * **Email:** [dennisfelix131@gmail.com]
   * **WorldQuant University Certificate:** [View my Credly Badge](https://www.credly.com/badges/7e88c1dd-1508-4ca2-9345-45982c0e80a3/linked_in_profile)
