@@ -41,7 +41,7 @@ Developed a powerful Convolutional Neural Network (CNN) to automatically classif
 
   * **Skills:** Image Processing, PyTorch, Tensor Manipulation, CNN Architecture, Model Prediction.
   * **Outcome:** Created a model capable of accurately identifying animals in new, unseen images, providing a valuable tool for ecological research.
-  * **[Explore the Project ➔](https://www.google.com/search?q=your-repo-link-here)**
+  * **[Explore the Project ➔]([https://www.google.com/search?q=your-repo-link-here](https://github.com/Dennis-Ladan/Data_Science/tree/main/Applied%20AI%20Lab%20-%20WQU/Project%201%3A%20Wild%20Conservation))**
 
 -----
 
@@ -51,7 +51,7 @@ Built and optimized a deep learning model to identify diseases in crop images fr
 
   * **Skills:** PyTorch, Transfer Learning, K-fold Cross-Validation, Model Overfitting Detection, Advanced Callbacks (Checkpointing, Early Stopping).
   * **Outcome:** Improved model performance significantly by leveraging a pre-trained base and optimizing the training process, resulting in a robust classification system.
-  * **[Explore the Project ➔](https://www.google.com/search?q=your-repo-link-here)**
+  * **[Explore the Project ➔]([https://www.google.com/search?q=your-repo-link-here](https://github.com/Dennis-Ladan/Data_Science/tree/main/Applied%20AI%20Lab%20-%20WQU/Project%202%3A%20Crop%20Disease%20in%20Uganda))**
 
 -----
 
