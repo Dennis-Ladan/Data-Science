@@ -61,7 +61,7 @@ Engineered an object detection system to identify and label cars, pedestrians, a
 
   * **Skills:** Object Detection with **YOLO** (You Only Look Once), Video Frame Extraction, XML Data Parsing (for bounding boxes), Data Augmentation, Custom Model Training.
   * **Outcome:** Successfully applied and extended a state-of-the-art YOLO model to perform real-time analysis on traffic data, demonstrating skills in both using and customizing advanced AI models.
-  * **[Explore the Project ➔](https://www.google.com/search?q=your-repo-link-here)**
+  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data_Science/tree/main/Applied%20AI%20Lab%20-%20WQU/Project%203:%20Traffic%20Monitoring%20in%20Bangladesh)**
 
 -----
 
