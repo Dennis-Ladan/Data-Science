@@ -41,7 +41,7 @@ Developed a powerful Convolutional Neural Network (CNN) to automatically classif
 
   * **Skills:** Image Processing, PyTorch, Tensor Manipulation, CNN Architecture, Model Prediction.
   * **Outcome:** Created a model capable of accurately identifying animals in new, unseen images, providing a valuable tool for ecological research.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%201%3A%20Wildlife%20Conservation%20in%20C%C3%B4te%20d'Ivoire)**
+  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%201%3A%20Wildlife%20Conservation%20in%20C%C3%B4te%20d'Ivoire%20-%20Binary%20Image%20Classification)**
 
 -----
 
@@ -51,7 +51,7 @@ Built and optimized a deep learning model to identify diseases in crop images fr
 
   * **Skills:** PyTorch, Transfer Learning, K-fold Cross-Validation, Model Overfitting Detection, Advanced Callbacks (Checkpointing, Early Stopping).
   * **Outcome:** Improved model performance significantly by leveraging a pre-trained base and optimizing the training process, resulting in a robust classification system.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%202:%20Crop%20Disease%20in%20Uganda)**
+  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%202%3A%20Crop%20Disease%20in%20Uganda%20-%20Multi-Class%20Image%20Classification)**
 
 -----
 
@@ -61,7 +61,7 @@ Engineered an object detection system to identify and label cars, pedestrians, a
 
   * **Skills:** Object Detection with **YOLO** (You Only Look Once), Video Frame Extraction, XML Data Parsing (for bounding boxes), Data Augmentation, Custom Model Training.
   * **Outcome:** Successfully applied and extended a state-of-the-art YOLO model to perform real-time analysis on traffic data, demonstrating skills in both using and customizing advanced AI models.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%203:%20Traffic%20Monitoring%20in%20Bangladesh)**
+  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%203%3A%20Traffic%20Monitoring%20in%20Bangladesh%20-%20Object%20Detection%20with%20YOLO)**
 
 -----
 
