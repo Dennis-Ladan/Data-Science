@@ -41,7 +41,7 @@ Developed a powerful Convolutional Neural Network (CNN) to automatically classif
 
   * **Skills:** Image Processing, PyTorch, Tensor Manipulation, CNN Architecture, Model Prediction.
   * **Outcome:** Created a model capable of accurately identifying animals in new, unseen images, providing a valuable tool for ecological research.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data_Science/tree/main/Applied%20AI%20Lab%20-%20WQU/Project%201%3A%20Wild%20Conservation)**
+  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%201%3A%20Wildlife%20Conservation%20in%20C%C3%B4te%20d'Ivoire)**
 
 -----
 
