@@ -62,4 +62,4 @@ I am actively seeking **Data Science, ML Engineering, and AI-focused roles** and
 
 * **LinkedIn:** [https://www.linkedin.com/in/bigMindz/]
 * **Email:** [dennisfelix131@gmail.com]
-* **WorldQuant University Certificate:** [DS Badge](https://www.credly.com/badges/7e88c1dd-1508-4ca2-9345-45982c0e80a3/linked_in_profile) [DL Badge](https://www.credly.com/badges/740daa0c-5812-47ec-839d-9471a32bfdfc/public_url)
+* **WorldQuant University Certificates:** [DS Badge](https://www.credly.com/badges/7e88c1dd-1508-4ca2-9345-45982c0e80a3/linked_in_profile) [DL Badge](https://www.credly.com/badges/740daa0c-5812-47ec-839d-9471a32bfdfc/public_url)
