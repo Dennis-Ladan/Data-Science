@@ -23,7 +23,7 @@ Welcome to my portfolio! This repository showcases my hands-on expertise in the 
 
 | Category | Tools & Techniques |
 | :--- | :--- |
-| **Frameworks** | **PyTorch**, TensorFlow/Keras |
+| **Frameworks** | **PyTorch** |
 | **Computer Vision** | GANs, CNNs, **Transfer Learning**, Object Detection (**YOLO**), Face Recognition |
 | **Deployment** | **Flask**, **Dash** (Interactive Dashboards), **Streamlit** (Web Apps) |
 | **Version Control** | Git, GitHub |
