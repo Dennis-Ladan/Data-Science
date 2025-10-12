@@ -2,7 +2,6 @@
 
 ### Data Scientist | AI Engineer | Computer Vision Specialist
 
-**Transforming complex data into deployable, intelligent solutions.**
 
 Welcome to my portfolio! This repository showcases my hands-on expertise in the end-to-end data science and machine learning pipeline, developed through the rigorous curriculum at **World Quant University**. My focus is on delivering quantifiable results using advanced predictive modeling and cutting-edge Deep Learning techniques.
 
@@ -10,7 +9,6 @@ Welcome to my portfolio! This repository showcases my hands-on expertise in the 
 
 ## 🔧 Core Competencies & Tech Stack
 
-A snapshot of the tools and methodologies I leverage for high-impact projects:
 
 ### Data Science & MLOps
 
@@ -50,7 +48,7 @@ Engineered a full-cycle object detection system using **YOLO** (You Only Look On
 
 #### 📉 Project 3: Financial Risk Assessment: Bankruptcy Prediction
 **Constructed** a robust bankruptcy prediction model specifically designed to address **highly imbalanced financial datasets**. Implemented advanced **resampling techniques** and feature engineering, **improving model reliability by 40%** over a baseline.
-* **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/blob/main/Applied%20DS%20Lab%20-%20WQU/055-bankruptcy-in-taiwan.pdf)** *(Please insert the correct link)*
+* **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/blob/main/Applied%20DS%20Lab%20-%20WQU/055-bankruptcy-in-taiwan.pdf)**
 
 #### 📊 Project 4: Customer Segmentation & Interactive BI Dashboard
 Conducted end-to-end customer segmentation analysis, utilizing **K-Means clustering** and **PCA** for dimensionality reduction. **Deployed an interactive Dash web application** for stakeholders, enabling data-driven marketing strategies.
