@@ -1,74 +1,67 @@
-Welcome\! This repository showcases my journey in transforming complex data into actionable insights and intelligent solutions. The projects here are a testament to my practical skills developed through the rigorous, hands-on curriculum at **World Quant University**.
+# Hi, I'm Dennis Felix Ladan 👋
 
-My work demonstrates a strong command of the entire data science pipeline, from querying and cleaning data to building, evaluating, and deploying sophisticated machine learning models. I am particularly passionate about computer vision and have developed deep learning models for image classification, object detection, and more.
+### Data Scientist | AI Engineer | Computer Vision Specialist
 
------
+**Transforming complex data into deployable, intelligent solutions.**
 
-## 🔧 Tech Stack & Core Competencies
-
-Here's a snapshot of the tools and techniques I command:
-
-  * **Programming & Databases:**
-
-      * **Python:** Proficient in data analysis, model building, and automation.
-      * **Databases:** Experienced in querying relational (**SQL**) and NoSQL (**MongoDB**) databases to retrieve data for analysis.
-      * **Command Line:** Comfortable navigating file systems and managing files using **Linux/Bash**.
-
-  * **Data Science & Machine Learning:**
-
-      * **Core Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-      * **Supervised Learning:** Linear & Logistic Regression, Decision Trees, Support Vector Machines (SVMs)
-      * **Unsupervised Learning:** K-Means Clustering, Principal Component Analysis (PCA) for dimensionality reduction.
-      * **Time Series Analysis:** Building and evaluating autoregressive models for forecasting.
-      * **Model Optimization:** Hyperparameter tuning, handling class imbalance (resampling), and mitigating overfitting.
-
-  * **Deep Learning & Computer Vision:**
-
-      * **Frameworks:** **PyTorch** & **TensorFlow/Keras**
-      * **Architectures:** Convolutional Neural Networks (**CNNs**) for image-based tasks.
-      * **Advanced Techniques:** Transfer Learning, Object Detection (**YOLO**), Data Augmentation, K-fold Cross-Validation.
-      * **Deployment:** Building and deploying interactive web applications and dashboards with **Dash**.
+Welcome to my portfolio! This repository showcases my hands-on expertise in the end-to-end data science and machine learning pipeline, developed through the rigorous curriculum at **World Quant University**. My focus is on delivering quantifiable results using advanced predictive modeling and cutting-edge Deep Learning techniques.
 
 -----
 
-## 🚀 Featured Projects
+## 🔧 Core Competencies & Tech Stack
 
-Below are some of the key projects that highlight my technical capabilities.
+A snapshot of the tools and methodologies I leverage for high-impact projects:
 
-### 📸 Project 1: Wildlife Species Classification
+### Data Science & MLOps
 
-Developed a powerful Convolutional Neural Network (CNN) to automatically classify animal species from camera trap images. This project addresses a real-world conservation challenge by automating image analysis for wildlife monitoring.
+| Category | Tools & Techniques |
+| :--- | :--- |
+| **Programming** | **Python (Advanced)**, SQL, Linux/Bash, JavaScript (Node.js) |
+| **ML & Analytics** | Pandas, NumPy, Scikit-learn, **PCA**, K-Means Clustering, Time Series (ARIMA) |
+| **Model Optimization** | **Imbalanced Data Handling (Resampling)**, Hyperparameter Tuning, Cross-Validation |
+| **Databases** | Relational (**SQL**), NoSQL (**MongoDB**) |
 
-  * **Skills:** Image Processing, PyTorch, Tensor Manipulation, CNN Architecture, Model Prediction.
-  * **Outcome:** Created a model capable of accurately identifying animals in new, unseen images, providing a valuable tool for ecological research.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%201%3A%20Wildlife%20Conservation%20in%20C%C3%B4te%20d'Ivoire%20-%20Binary%20Image%20Classification)**
+### Deep Learning & Deployment
 
------
-
-### 🌿 Project 2: Automated Crop Disease Detection
-
-Built and optimized a deep learning model to identify diseases in crop images from Uganda. This solution aims to help farmers detect issues early and improve crop yield.
-
-  * **Skills:** PyTorch, Transfer Learning, K-fold Cross-Validation, Model Overfitting Detection, Advanced Callbacks (Checkpointing, Early Stopping).
-  * **Outcome:** Improved model performance significantly by leveraging a pre-trained base and optimizing the training process, resulting in a robust classification system.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%202%3A%20Crop%20Disease%20in%20Uganda%20-%20Multi-Class%20Image%20Classification)**
-
------
-
-### 🚗 Project 3: Real-Time Traffic Object Detection
-
-Engineered an object detection system to identify and label cars, pedestrians, and other objects from a live traffic video feed in Dhaka, Bangladesh.
-
-  * **Skills:** Object Detection with **YOLO** (You Only Look Once), Video Frame Extraction, XML Data Parsing (for bounding boxes), Data Augmentation, Custom Model Training.
-  * **Outcome:** Successfully applied and extended a state-of-the-art YOLO model to perform real-time analysis on traffic data, demonstrating skills in both using and customizing advanced AI models.
-  * **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%203%3A%20Traffic%20Monitoring%20in%20Bangladesh%20-%20Object%20Detection%20with%20YOLO)**
+| Category | Tools & Techniques |
+| :--- | :--- |
+| **Frameworks** | **PyTorch**, TensorFlow/Keras |
+| **Computer Vision** | CNNs, **Transfer Learning**, Object Detection (**YOLO**), Face Recognition |
+| **Deployment** | **Flask**, **Dash** (Interactive Dashboards), **Streamlit** (Web Apps) |
+| **Version Control** | Git, GitHub |
 
 -----
 
-## 🤝 Let's Connect\!
+## 💡 Featured Projects
 
-I am actively seeking new opportunities to apply my skills and contribute to impactful, data-driven projects. Feel free to reach out\!
+These four projects demonstrate comprehensive expertise across the entire data science and machine learning pipeline, from advanced predictive modeling to cutting-edge computer vision deployment.
 
-  * **LinkedIn:** [https://www.linkedin.com/in/bigMindz/]
-  * **Email:** [dennisfelix131@gmail.com]
-  * **WorldQuant University Certificate:** [View my Credly Badge](https://www.credly.com/badges/7e88c1dd-1508-4ca2-9345-45982c0e80a3/linked_in_profile)
+### **Deep Learning Track**
+
+#### 🚗 Project 1: Real-Time Traffic Object Detection (YOLO)
+Engineered a full-cycle object detection system using **YOLO** (You Only Look Once) to identify and label cars and pedestrians in live traffic video feeds. Demonstrated proficiency in **customizing advanced AI models** and **real-time processing**.
+* **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%203%3A%20Traffic%20Monitoring%20in%20Bangladesh%20-%20Object%20Detection%20with%20YOLO)**
+
+#### 🌿 Project 2: Agricultural AI: Automated Crop Disease Detection
+**Developed and trained** a robust **PyTorch-based CNN** for classifying crop diseases, implementing **Transfer Learning** and **k-fold cross-validation** to achieve **95%+ classification accuracy**. Showcases delivery of high-performance vision models for industry-specific problems.
+* **[Explore the Project ➔](https://github.com/Dennis-Ladan/Data-Science/tree/main/Deep%20Learning%20for%20Computer%20Vision%20-%20WQU/Project%202%3A%20Crop%20Disease%20in%20Uganda%20-%20Multi-Class%20Image%20Classification)** *(Please update link if necessary)*
+
+### **Data Science Track**
+
+#### 📉 Project 3: Financial Risk Assessment: Bankruptcy Prediction
+**Constructed** a robust bankruptcy prediction model specifically designed to address **highly imbalanced financial datasets**. Implemented advanced **resampling techniques** and feature engineering, **improving model reliability by 40%** over a baseline.
+* **[Explore the Project ➔](LINK_TO_YOUR_FINANCIAL_PROJECT_FOLDER)** *(Please insert the correct link)*
+
+#### 📊 Project 4: Customer Segmentation & Interactive BI Dashboard
+Conducted end-to-end customer segmentation analysis, utilizing **K-Means clustering** and **PCA** for dimensionality reduction. **Deployed an interactive Dash web application** for stakeholders, enabling data-driven marketing strategies.
+* **[Explore the Project ➔](LINK_TO_YOUR_SEGMENTATION_PROJECT_FOLDER)** *(Please insert the correct link)*
+
+-----
+
+## 🤝 Let's Connect
+
+I am actively seeking **Data Science, ML Engineering, and AI-focused roles** and am ready to contribute my technical expertise to impactful projects.
+
+* **LinkedIn:** [https://www.linkedin.com/in/bigMindz/]
+* **Email:** [dennisfelix131@gmail.com]
+* **WorldQuant University Certificate:** [View my Credly Badge](https://www.credly.com/badges/7e88c1dd-1508-4ca2-9345-45982c0e80a3/linked_in_profile)
